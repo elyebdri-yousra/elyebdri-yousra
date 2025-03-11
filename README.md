@@ -15,7 +15,7 @@ Je m’intéresse particulièrement au développement web full-stack, à l’exp
 ## 🛠 Technologies  
 ### 🔹 Langages  
 <a href="https://github.com/hovsn1/hovsn1">
-  <img align="right" src="https://github-readme-stats-woad-one-36.vercel.app/api/top-langs/?username=YousraElYebdri&layout=compact&theme=default&locale=fr" />
+  <img align="right" src="https://github-readme-stats-woad-one-36.vercel.app/api/top-langs/?username=hovsn1&layout=compact&theme=default&locale=fr" />
 </a>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
