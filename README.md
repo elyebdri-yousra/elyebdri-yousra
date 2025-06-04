@@ -8,13 +8,15 @@ Développeuse web en formation
 ## 👩‍💻 À propos de moi  
 Étudiante en BUT Métiers du Multimédia et de l’Internet (MMI), je suis passionnée par le développement web et le design d’interface. Curieuse et créative, j’aime concevoir des solutions innovantes qui allient esthétique et performance.  
 
-Je m’intéresse particulièrement au développement web full-stack, à l’expérience utilisateur (UX/UI),  ainsi qu’aux bonnes pratiques du code et de l’accessibilité numérique.   
+Je m’intéresse particulièrement au développement web full-stack, à l’expérience utilisateur (UX/UI),  ainsi qu’aux bonnes pratiques du code et de l’accessibilité numérique.  
+
+🔗 Découvrir mon portfolio en ligne : https://elyebdri-yousra.com
 
 ---
 
 ## 🛠 Technologies  
 ### 🔹 Langages  
-<a href="https://github.com/hovsn1/hovsn1">
+<a href="https://github.com/hovsn1/elyebdri-yousra">
   <img align="right" src="https://github-readme-stats-woad-one-36.vercel.app/api/top-langs/?username=hovsn1&layout=compact&theme=default&locale=fr" />
 </a>
 <p align="left">
