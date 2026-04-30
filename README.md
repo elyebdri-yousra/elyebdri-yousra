@@ -5,11 +5,11 @@ Développeuse web en formation
 
 ---
 
-## 👩‍💻 À propos de moi  
-Étudiante en BUT Métiers du Multimédia et de l’Internet (MMI), je suis passionnée par le développement web et le design d’interface. Curieuse et créative, j’aime concevoir des solutions innovantes qui allient esthétique et performance.  
+## 👩‍💻 À propos de moi
 
-Je m’intéresse particulièrement au développement web full-stack, à l’expérience utilisateur (UX/UI),  ainsi qu’aux bonnes pratiques du code et de l’accessibilité numérique.  
-Découvrir mon portfolio en ligne : https://elyebdri-yousra.com
+Apprentie développeuse web en alternance au **Ministère de la Culture** (Drupal), étudiante en **BUT MMI** à l'IUT de Toulon. Passionnée par le web, l'UX/UI et l'accessibilité numérique.
+
+🌐 [elyebdri-yousra.com](https://elyebdri-yousra.com)
 
 ---
 ## 🛠 Technologies  
