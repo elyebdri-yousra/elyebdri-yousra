@@ -2,13 +2,6 @@
 ```bash
 Développeuse web en formation 
 ```  
-
----
-
-## 👩‍💻 À propos de moi
-
-Apprentie développeuse web en alternance au **Ministère de la Culture** (Drupal), étudiante en **BUT MMI** à l'IUT de Toulon. Passionnée par le web, l'UX/UI et l'accessibilité numérique.
-
 🌐 [elyebdri-yousra.com](https://elyebdri-yousra.com)
 
 ---
@@ -17,9 +10,9 @@ Apprentie développeuse web en alternance au **Ministère de la Culture** (Drupa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyebdri-yousra&layout=compact&theme=default&locale=fr)
 
-| PHP | Java | HTML | CSS | JavaScript | SQL |
-|-----|------|------|-----|------------|-----|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> |
+| PHP | Java | HTML | JavaScript | SQL |
+|-----|------|------|------------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> |
 
 ### 🔹 Frameworks & Outils
 
