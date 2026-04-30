@@ -9,8 +9,7 @@ Développeuse web en formation
 Étudiante en BUT Métiers du Multimédia et de l’Internet (MMI), je suis passionnée par le développement web et le design d’interface. Curieuse et créative, j’aime concevoir des solutions innovantes qui allient esthétique et performance.  
 
 Je m’intéresse particulièrement au développement web full-stack, à l’expérience utilisateur (UX/UI),  ainsi qu’aux bonnes pratiques du code et de l’accessibilité numérique.  
-
-🔗 Découvrir mon portfolio en ligne : https://elyebdri-yousra.com
+Découvrir mon portfolio en ligne : https://elyebdri-yousra.com
 
 ---
 
